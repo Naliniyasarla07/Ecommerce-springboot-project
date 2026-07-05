@@ -1,4 +1,4 @@
-# 🛒 S Bakers - E-Commerce Web Application
+# 🛒  Bakers - E-Commerce Web Application
 
 A full-stack E-Commerce web application developed using Spring Boot, Thymeleaf, MySQL, and Bootstrap. The application allows customers to browse bakery products and enables administrators to manage categories, products, and images through an admin dashboard.
 
