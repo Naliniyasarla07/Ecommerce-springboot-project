@@ -6,6 +6,17 @@ A full-stack E-Commerce web application developed using Spring Boot, Thymeleaf, 
 
 ## 🚀 Features
 
+
+## Live Demo
+
+Customer Service:
+https://customermicroservicebank-production.up.railway.app
+
+Account Service:
+https://accountservicebank-production.up.railway.app/
+e commerce
+https://ecommerce-springboot-project-production-7f20.up.railway.app
+
 ### Admin Module
 - Admin Login
 - Dashboard
